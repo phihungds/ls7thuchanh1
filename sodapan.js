@@ -4,6 +4,6 @@ function sodapan() {
     alert("Right!")
     }
     else {
-        
+        alert("Didn’t know? ECMAScript!")
     }
 }
